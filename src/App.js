@@ -43,7 +43,7 @@ export default function App() {
           <option value="USD">USD</option>
           <option value="EUR">EUR</option>
           <option value="CAD">CAD</option>
-          <option value="GBR">GBR</option>
+          <option value="GBP">GBP</option>
         </select>
         <select
           value={toCur}
